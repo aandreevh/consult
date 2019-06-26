@@ -84,6 +84,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/hykar/CLionProjects/consult/Cloneable.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/ConstExpression.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/Expr.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/Expression.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/ExpressionFactory.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/OExpression.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/Printable.h">
+			<Option target="consult"/>
+		</Unit>
+		<Unit filename="/home/hykar/CLionProjects/consult/VarExpression.h">
+			<Option target="consult"/>
+		</Unit>
 		<Unit filename="/home/hykar/CLionProjects/consult/main.cpp">
 			<Option target="consult"/>
 		</Unit>
