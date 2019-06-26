@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/consult.dir/main.cpp.o  -o consult 
